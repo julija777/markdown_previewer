@@ -2,10 +2,18 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#editor {
+  background-color: hsl(217, 28%, 89%);
+  position: relative;
+  margin-top: 3%;
+  
 }
+
+#preview {
+  background-color: hsl(217, 28%, 89%);
+  position: relative;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
