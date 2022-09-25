@@ -21,4 +21,4 @@ You can build your project by using this CodePen template and clicking Save to c
 Once you're done, submit the URL to your working project with all its tests passing.
 
 
-<img src="markdown_FCC.png">   
+<img src="https://github.com/julija777/markdown_previewer/blob/master/public/markdown_FCC.png">   
