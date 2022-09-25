@@ -20,5 +20,6 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
+Deployed: https://markdown-previewer-ty9x-lw8z416mk-julija777.vercel.app/
 
 <img src="https://github.com/julija777/markdown_previewer/blob/master/public/markdown_FCC.png">   
